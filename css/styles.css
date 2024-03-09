@@ -236,11 +236,12 @@ background-color: #FFFFFF;
     
 }
 
-.employee{
+.employee {
     background-color: #FFFFFF;
 width: calc((100% - 24px * 2) / 3);
 padding: 32px 16px;
 margin: 0 auto;
+
 
 }
 
@@ -271,6 +272,7 @@ margin: 0 auto;
 .portfolio {
 background-color: #FFF;
 padding: 120px 0;
+
 }
 
 .portfolio-title {
@@ -303,9 +305,12 @@ width: calc((100% - 24px * 2) / 3);
         height: auto;
 
 }
+
 .cart-content {
     padding: 32px 16px;
+    text-align: left;
 }
+
 .portfolio-subtitle {
     color: #1a1f82;
         font-size: 20px;
