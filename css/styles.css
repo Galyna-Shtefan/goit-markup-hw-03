@@ -322,16 +322,9 @@ color: #434455;
 
 .footer {
 background: #2E2F42;
-display: flex;
+padding: 100px 0;
 }
 
-.footer-content {
-   padding-top: 100px; 
-   padding-bottom: 100px;
-   padding-left: 0; 
-   
-}
-    
 .footer-logo {
     display: inline-block;
     color: #4D5AE5;
@@ -355,4 +348,5 @@ display: flex;
         line-height: 1.5;
         letter-spacing: 0.02em;
         max-width: 264px;
+        margin-left: 0;
 }
